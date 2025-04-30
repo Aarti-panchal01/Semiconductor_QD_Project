@@ -20,3 +20,10 @@ The QuaNaD Lab internship focuses on quantum dots and semiconductor physics. Thi
 
 ## Getting Started
 Run the `QuantumDot_Simulation.ipynb` notebook to explore energy quantization in QDs.
+
+
+Created by
+Aarti Panchal
+B.Tech AIML, PES University
+April 2025
+
